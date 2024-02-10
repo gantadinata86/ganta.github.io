@@ -1,2 +1,2 @@
-# ganta_ujian
+# ganta.github.io
 Repository untuk sendiri
